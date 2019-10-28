@@ -1,0 +1,36 @@
+td,
+th {
+    border: 2px solid rgb(190, 190, 190);
+    padding: 15px;
+}
+
+td {
+    text-align: center;
+}
+
+td {
+    background-color: #fff;
+}
+
+
+
+.oranje {
+    background-color: #FFA500;
+    color: green;
+}
+
+.purple {
+    background-color: #DA70D6
+}
+
+.blue { 
+    background-color: #ADD8E6
+ }
+
+.yellow {
+    background-color: #FFFFE0
+}
+
+td:hover {
+background-color: #C0C0C0;
+}
